@@ -28,6 +28,7 @@ Tecnologías utilizadas
 
 
 Estructura del proyecto
+
 ![image](https://github.com/user-attachments/assets/7929620d-f8ae-4fba-8ae9-a83b2f1ef58d)
 
 
