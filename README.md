@@ -62,6 +62,6 @@ Sobre mí
 Me interesa especialmente la rama de software y sistemas de información, con foco en backend y lógica de negocio.  
 Este proyecto forma parte de mi portafolio para mostrar mi evolución como Ingeniero de Sistemas.
 
-LinkedIn: https://www.linkedin.com/in/hector-a-3b1200304)
+LinkedIn: https://www.linkedin.com/in/hector-a-3b1200304
 
 ¡Gracias por visitar este proyecto!
