@@ -28,19 +28,7 @@ Tecnologías utilizadas
 
 
 Estructura del proyecto
-
-SistemaGestionProductos/
-├── Clases/
-│   ├── Producto.cs
-│   ├── ProductoSimple.cs
-│   ├── IProducto.cs
-│   └── ProductoNoEncontradoException.cs
-│   └── Inventario.cs
-├── Program.cs
-├── inventario.json
-├── SistemaGestionProductos.csproj
-├── README.md
-└── .gitignore
+![image](https://github.com/user-attachments/assets/7929620d-f8ae-4fba-8ae9-a83b2f1ef58d)
 
 
 ¿Por qué hice este proyecto?
