@@ -54,7 +54,7 @@ Próximas mejoras
 - Interfaz gráfica (Windows Forms o WPF)
 - Sistema de autenticación por roles
 - Generación de reportes (PDF, Excel)
-- 🗃Uso de base de datos en vez de archivo JSON
+- Uso de base de datos en vez de archivo JSON
 
 
 Sobre mí
